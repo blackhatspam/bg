@@ -3,13 +3,13 @@ do
 function run(msg, matches)
   return 'NOD32-BOT v8'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  admin : @blackhat_hc
   
-  Channel : @Nod32team
+  Channel : no channel
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : https://github.com/blackhatspam/bg.git
   
-  NOD32 VERSION 8
+  bg VERSION 8
   
   All rights reserved.
   __________________]]
